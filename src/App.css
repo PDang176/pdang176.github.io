@@ -1,6 +1,11 @@
 .navbar-toggler:focus,
 .navbar-toggler:active,
 .navbar-toggler-icon:focus {
-    outline: none;
-    box-shadow: none;
+  outline: none;
+  box-shadow: none;
+}
+
+.content {
+  margin-top: 60px;
+  padding: 0;
 }
